@@ -26,6 +26,7 @@ SPLIT_KEYBOARD         = yes
 MOUSEKEY_ENABLE = yes 
 EXTRAKEY_ENABLE = yes
 
+CAPS_WORD_ENABLE = yes
 RGB_MATRIX_SUPPORTED = yes  # RGB matrix is supported and enabled by default
 RGBLIGHT_SUPPORTED = no    # RGB underglow is supported, but not enabled by default
 RGB_MATRIX_ENABLE = yes     # Enable keyboard RGB matrix functionality
